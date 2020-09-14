@@ -1,2 +1,3 @@
 # EasyPythonCalculator
-Easy Calculator written in Python (for beginners)
+
+Easy Calculator script written in Python (for beginners)
