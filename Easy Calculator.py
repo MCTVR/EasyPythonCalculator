@@ -11,7 +11,7 @@ print("Type your second number, e.g. 2")
 y = float(input())
 print("Thank you, thecalculator is calculating!")
 
-#def +-*/
+#def +-*/ #all the functions goes here
 
 def add(x, y):
     return x + y
@@ -27,7 +27,7 @@ def div(x, y):
 
 #print results
 
-if operator == "+":
+if operator == "+":     # this will compare operators given
     print(add(x, y))
 if operator == "-":
     print(sub(x, y))
